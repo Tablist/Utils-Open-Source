@@ -1,0 +1,8 @@
+name: Utils
+version: ${project.version}
+main: dev.xac.utils.Utils
+api-version: 1.16
+authors: [ Xac ]
+commands:
+  Gamemode:
+    description: Creative and Survival Mode
